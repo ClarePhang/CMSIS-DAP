@@ -1,3 +1,5 @@
 CMSIS-DAP
 ============================
-The CMSIS-DAP project has been renamed to DAPLink and moved [here](https://github.com/mbedmicro/daplink). The CMSIS-DAP repo is obsolete and will be removed in the future.
+The mbed interface reference application named CMSIS-DAP has been renamed [DAPLink is actively developed in a new repo](https://github.com/ARMmbed/DAPLink).
+
+This repo is obsolete and will be removed in the future.
